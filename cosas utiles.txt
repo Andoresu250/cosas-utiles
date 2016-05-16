@@ -1,0 +1,12 @@
+Rails
+	GEMAS:
+	>Devise: Autenticacion de usuarios (todo listo, nada a pedal)
+	>sorcery: Autenticacion de usuario (todo a pedal)
+	>AASM: Creacion de maquinas de estado, ideal campo tipo en los modelos (o estado)
+	
+Php
+	Frameworks:
+	>Lavarel (Backend, MVC)
+
+FrontEnd
+	>AngularJS (FrontEnd, MVC, facil de usar, alta integracion con infinidades de otros frameworks, NOTA: al tratar de fusionar angularJs con otro frameWork busca el 		framework como dependencia ejemplo: angularJS google maps.	
