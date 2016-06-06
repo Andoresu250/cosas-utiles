@@ -10,3 +10,11 @@ Php
 
 FrontEnd
 	>AngularJS (FrontEnd, MVC, facil de usar, alta integracion con infinidades de otros frameworks, NOTA: al tratar de fusionar angularJs con otro frameWork busca el 		framework como dependencia ejemplo: angularJS google maps.	
+
+BackEnd
+	Php
+		Frameworks:
+		>Lavarel (Backend, MVC)
+	Api Rails
+		(Obsoleto a partir de rails 5, se hara esto mismo pero con un tag al crear el proyecto)
+	Vease gemas de rails
