@@ -1,0 +1,36 @@
+//Custom Keymap for atom
+/*
+  Alt-# won't change tab
+  Ctrl-# change tab
+  ctrl-(shift)-tab: next previous tab
+  @ with alt-q
+*/
+
+'body':
+  'alt-1': 'unset!'
+  'alt-2': 'unset!'
+  'alt-3': 'unset!'
+  'alt-4': 'unset!'
+  'alt-5': 'unset!'
+  'alt-6': 'unset!'
+  'alt-7': 'unset!'
+  'alt-8': 'unset!'
+  'alt-9': 'unset!'
+  'ctrl-1': 'pane:show-item-1'
+  'ctrl-2': 'pane:show-item-2'
+  'ctrl-3': 'pane:show-item-3'
+  'ctrl-4': 'pane:show-item-4'
+  'ctrl-5': 'pane:show-item-5'
+  'ctrl-6': 'pane:show-item-6'
+  'ctrl-7': 'pane:show-item-7'
+  'ctrl-8': 'pane:show-item-8'
+  'ctrl-9': 'pane:show-item-9'
+
+  'ctrl-tab': 'pane:show-next-item'
+  'ctrl-shift-tab': 'pane:show-previous-item'
+
+  'ctrl-tab ^ctrl': 'unset!'
+  'ctrl-shift-tab ^ctrl': 'unset!'
+
+'.platform-win32 atom-text-editor, .platform-linux atom-text-editor':
+  'ctrl-alt-q': 'unset!'
