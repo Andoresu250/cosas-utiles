@@ -1,9 +1,8 @@
 # cosas-utiles
 Lista de frameWorks y/o gemas y/o librerias que pueden ser utiles
 
-##[Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 ######para escribir en el readme
-
+##[Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 ##[Atom.io](https://atom.io/)
 Editor que usamos actualmente, es cuate pero hay que configurarlo un poco
