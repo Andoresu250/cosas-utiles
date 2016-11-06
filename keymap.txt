@@ -34,3 +34,6 @@
 
 '.platform-win32 atom-text-editor, .platform-linux atom-text-editor':
   'ctrl-alt-q': 'unset!'
+
+'atom-workspace atom-pane':
+  'ctrl-alt-=': 'unset!'
