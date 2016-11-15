@@ -13,3 +13,5 @@ Editor que usamos actualmente, es cuate pero hay que configurarlo un poco
 4. packages
   * todo-show
   * autoclose-html
+
+##[Gems SSL problem](http://guides.rubygems.org/ssl-certificate-update/)
