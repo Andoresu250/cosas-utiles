@@ -15,3 +15,8 @@ Editor que usamos actualmente, es cuate pero hay que configurarlo un poco
   * autoclose-html
 
 ##[Gems SSL problem](http://guides.rubygems.org/ssl-certificate-update/)
+
+##Vagrant
+* https://gorails.com/guides/using-vagrant-for-rails-development
+* [remove password from ubuntu](http://askubuntu.com/questions/281074/can-i-set-my-user-account-to-have-no-password)
+* https://gorails.com/setup/ubuntu/16.04
