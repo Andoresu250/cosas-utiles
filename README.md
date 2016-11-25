@@ -16,7 +16,6 @@ Editor que usamos actualmente, es cuate pero hay que configurarlo un poco
   * atom-beautify
   * angularjs
   * atom-typescript
-  * autocomplete-emojis
 
 ##[Gems SSL problem](http://guides.rubygems.org/ssl-certificate-update/)
 
