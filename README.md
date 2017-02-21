@@ -21,6 +21,14 @@ Editor que usamos actualmente, es cuate pero hay que configurarlo un poco
   * linter-ruby
   * pigments
   * highlight-selected
+  
+##[Visual Studio Code](https://code.visualstudio.com/)
+parece mas cuate, atom es lento como el solo vale, como le digo Android studio?
+   * ya tiene pigments por defecto, soporta typescript, el beautify tambien
+   
+  * pon el keymap
+  * renderIndentLineguides = true en settings
+  * [AutoClose tags](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag)
 
 ##[Gems SSL problem](http://guides.rubygems.org/ssl-certificate-update/)
 
