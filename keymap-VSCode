@@ -33,3 +33,17 @@
 
     
 ]
+
+
+//SETTINGS
+{
+    "window.zoomLevel": 1,
+    "editor.renderIndentGuides": true,
+    "workbench.editor.enablePreviewFromQuickOpen": false,
+    "editor.minimap.enabled": true,
+    "TodoParser": {
+        "only": ["src"],
+        "markers": ["NOTE:", "REMINDER:", "FIXME:"],
+        "autoDefaultMarkers": true
+    }
+}
